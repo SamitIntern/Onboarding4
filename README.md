@@ -42,3 +42,5 @@ Open a web browser and type the following: -
 `localhost:<Port number you mentioned>/<Any text you want to be displayed>`
 
 You should see on the browser *Hello "/<Your text entered in the URL"* displayed on the screen.
+
+Following is a screenshot should make using it  
