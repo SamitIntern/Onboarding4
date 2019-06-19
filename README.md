@@ -43,6 +43,6 @@ Open a web browser and type the following: -
 
 You should see on the browser *Hello "/<Your text entered in the URL"* displayed on the screen.
 
-The following screenshot gives a better idea of the way this application is used.   
+The following screenshot gives a better idea of the way this application is used on port number 8080.   
 
 ![alt text](https://github.com/SamitIntern/Onboarding4/blob/Test2/Screen%20Shot%202019-06-19%20at%203.26.48%20PM.png "Demo Screenshot")
