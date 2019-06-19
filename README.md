@@ -44,3 +44,5 @@ Open a web browser and type the following: -
 You should see on the browser *Hello "/<Your text entered in the URL"* displayed on the screen.
 
 Following is a screenshot should make using it  
+
+![alt text](https://github.com/SamitIntern/Onboarding4/blob/Test2/Screen%20Shot%202019-06-19%20at%203.26.48%20PM.png "Demo Screenshot")
